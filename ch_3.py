@@ -4,7 +4,6 @@ def give_me_something(a):
     "something" joined with a space and the given parameter a
     """
     something = "something"
-
     return "{} {}".format(something, a)
 
 
