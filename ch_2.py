@@ -4,8 +4,7 @@ def find_perimeter(length, width):
     """
     side1 = length * 2
     side2 = width * 2
-    result = side1 + side2
-    return result
+    return side1 + side2
 
 
 print(find_perimeter(2, 4))
