@@ -1,2 +1,1 @@
-# edabit.com
-edabit.com challenge solutions.
+# edabit.com challenge solutions.
